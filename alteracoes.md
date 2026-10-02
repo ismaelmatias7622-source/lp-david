@@ -87,3 +87,23 @@ Este documento detalha todas as criações, configurações e alterações reali
 
 ### O que levou a decidir assim:
 - Atendimento direto à solicitação de upload para o GitHub.
+
+---
+
+## 6. Tratamento da Proteção de Privacidade de E-mail do GitHub (GH007)
+
+### O que foi feito:
+- Identificação da restrição de privacidade de e-mail ativada na conta do GitHub (`push declined due to email privacy restrictions`).
+- Consulta à API pública do GitHub para recuperar o ID numérico do usuário (`329027268`).
+- Configuração do e-mail oficial noreply no repositório local: `329027268+ismaelmatias7622-source@users.noreply.github.com`.
+- Atualização do autor do commit via `git commit --amend --reset-author --no-edit` e push realizado com sucesso.
+
+### Por que foi feito:
+- O GitHub bloqueia commits que expõem o endereço de e-mail privado do desenvolvedor quando a opção "Block command line pushes that expose my email" está ligada.
+
+### Por que esta era a melhor decisão:
+- Utilizar o formato oficial de e-mail noreply do GitHub preserva a privacidade do desenvolvedor, vincula os commits ao perfil do GitHub e permite o push sem desativar a segurança da conta.
+
+### O que levou a decidir assim:
+- Retorno de erro do Git remoto (`remote: error: GH007`).
+
