@@ -1,0 +1,177 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://placehold.co/800x500/333333/888888?text=Imagem') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ====================================
+   OceanusLex — Flux-Adapted Style
+   Colors: White 70% / Navy 30% / Green Accents
+   ==================================== */
+
+/* Custom color overrides for Tailwind */
+:root {
+    --color-navy: #080D16;
+    --color-navy-dark: #05080e;
+    --color-red-accent: #16a34a;
+    --color-red-glow: rgba(22, 163, 74, 0.4);
+}
+
+/* ---- Base ---- */
+body {
+    background-color: #ffffff;
+    color: #4b5563;
+}
+
+/* Flux text-glow → adapted for light bg with green glow */
+.text-glow {
+    text-shadow: 0 0 40px rgba(22, 163, 74, 0.15);
+}
+
+/* Kinetic heading gradient (Navy → Blue) */
+.kinetic-heading {
+    background: linear-gradient(100deg, #080D16 30%, #4b5563 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-bottom: 0.1em;
+}
+
+/* ---- Navigation Glass ---- */
+.nav-glass {
+    background: rgba(255, 255, 255, 0.8);
+    border-bottom: 1px solid rgba(8, 13, 22, 0.08);
+}
+
+/* ---- Custom Tailwind Overrides ---- */
+/* Navy color class for text */
+.text-navy {
+    color: #080D16;
+}
+.bg-navy {
+    background-color: #080D16;
+}
+.border-navy {
+    border-color: #080D16;
+}
+
+.font-serif-title {
+    font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
+}
+
+/* Hero Background Image Alignment */
+.hero-bg-img {
+    object-fit: cover;
+    object-position: right top;
+}
+
+/* ---- Responsive Polish for Mobile ---- */
+@media (max-width: 768px) {
+    html, body {
+        overflow-x: hidden;
+    }
+    
+    .hero-bg-img {
+        object-fit: cover;
+        object-position: 80% top;
+    }
+
+    .kinetic-heading {
+        line-height: 1.1 !important;
+    }
+
+    /* Prevent text wrapping issues on small mobile screens */
+    h1, h2, h3 {
+        word-break: break-word;
+    }
+
+    /* Touch feedback */
+    a, button {
+        -webkit-tap-highlight-color: transparent;
+    }
+}
